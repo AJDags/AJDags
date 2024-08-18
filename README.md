@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Adrian James C. Dagatan, a Datacamp Donates Scholar passionate about harnessing the power of data. With a keen interest in data visualization and econometrics, I enjoy transforming raw data into compelling stories. Let's connect and explore the world of data together! 😄
+I'm Adrian James C. Dagatan, a Datacamp Donates Scholar passionate about harnessing the power of data. With a keen interest in data visualization and econometrics, I enjoy transforming raw data into compelling stories! 😄
